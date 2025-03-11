@@ -11,3 +11,5 @@ opcjonalna recz mozna dac nie trzeba
 3
 2
 1
+
+xdddddd
