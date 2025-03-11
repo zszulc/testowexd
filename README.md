@@ -5,3 +5,9 @@ opcjonalna recz mozna dac nie trzeba
 3
 4
 5
+
+5
+4
+3
+2
+1
